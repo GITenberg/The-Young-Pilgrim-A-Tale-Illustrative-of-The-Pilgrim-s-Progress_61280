@@ -1,5 +1,8 @@
 _repo: The-Young-Pilgrim-A-Tale-Illustrative-of-The-Pilgrim-s-Progress_61280
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61280-h/images/cover.jpg
 creator:
   author:
     agent_name: A. L. O. E.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31385
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61280#The-Young-Pilgrim-A-Tale-Illustrative-of-The-Pilgrim-s-Progress
 gutenberg_issued: '2020-01-31'
 gutenberg_type: Text
 identifiers:
